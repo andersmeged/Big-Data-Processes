@@ -1,0 +1,33 @@
+Country,Age,Salary,Loan,Assets
+France,66,97000,No,"Car, House, Boat"
+Italy,73,65000,No,"House, aparment, motorbike"
+Germany,,35000,Yes,"house, car"
+ITALY,67,70000,Yes,apartment
+Germany,33,86000,Yes,"motorbike, studio"
+Frence,59,,No,Car
+Italy,21,32000,Yes,"House, car"
+france,39,63000,No,"car, studio, boat"
+Germany,36,51000,,"House, Car"
+FRANCE,23,96000,No,"motorbike, car, studio, boat"
+france,76,82000,Yes,"House, Apartment"
+Italie,,44000,Yes,"Car, House, Boat"
+Deutschland,70,90000,,"House, aparment, motorbike"
+Italy,66,52000,Yes,"house, car"
+germany,50,35000,No,"apartment, car"
+Francia,21,24000,Yes,"motorbike, studio"
+Italy,52,70000,Yes,car
+France,,49000,,"House, car"
+Italy,25,250000,No,"car, studio, boat"
+German,28,61000,Yes,"House, Car"
+france,78,78000,No,"Motorbike, Car, Studio, Boat"
+France,57,71000,Yes,"House, Apartment"
+italy,34,33000,Yes,"Car, House, Boat"
+German,74,,Yes,"House, aparment, motorbike"
+France,32,300000,No,"house, car"
+It.,23,38000,No,house
+GERmany,60,35000,Yes,"motorbike, studio"
+FR.,45,53000,Yes,Car
+Italy,34,,Yes,"House, car"
+France,20,44000,Yes,"car, studio, boat"
+Germany,28,63000,Yes,"House, Car"
+France,29,31000,No,Motorbike
